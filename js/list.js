@@ -4,6 +4,12 @@ const d = {
 		{
 			"vids": [
 				{
+    "user": "amedxx2y",
+    "link": "https://youtu.be/AlTh7-Cpsnc",
+    "percent": 100,
+    "hz": "mobile"
+},
+				{
 					"user": "XanPlayzGamez",
 					"link": "https://youtu.be/bZ38Bk_mev8",
 					"percent": 100,
